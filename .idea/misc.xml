@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.1405" />
+        <entry key="app/src/main/res/drawable/input_background.xml" value="0.1405" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2191661596777933" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2271062271062271" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
